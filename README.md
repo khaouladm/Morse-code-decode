@@ -14,13 +14,21 @@ A Morse code decoder using eye blinks. This project combines real-time computer 
 ## 📁 Project Structure
 
 Vpo_Project/
+
 ├── best.pt # YOLOv8 model weights
+
 ├── eye_blink_cnn_model.h5 # CNN model for eye classification
+
 ├── eye_cnn_model.ipynb # Notebook for CNN training
+
 ├── main_morse_blink_app.ipynb # Main application
+
 ├── dlib-19.24.99-...whl # Dlib wheel for installation
+
 ├── shape_predictor_68_face_landmarks.dat # Dlib face landmarks
+
 ├── eye_data/ # Training dataset
+
 └── .ipynb_checkpoints/
 
 ## 🛠️ Requirements
