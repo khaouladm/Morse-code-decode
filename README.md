@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Morse Blink Decoder
 
 A Morse code decoder using eye blinks. This project combines real-time computer vision with deep learning to enable hands-free communication using eye blinks as input. It uses YOLOv8 for eye detection and a CNN model to classify eye states (open or closed).
@@ -56,3 +57,7 @@ Run the notebook main_morse_blink_app.ipynb to start real-time detection and dec
 
 ## License
 This project is licensed under the MIT License.
+=======
+# Morse-code-decode
+A Morse code decoder using eye blinks. Combines YOLOv8 for real-time eye detection and a CNN model for classifying open/closed eyes. Blinks are translated into Morse code, enabling hands-free text input through visual signals.
+>>>>>>> 08f9fb41b7048871a7ec3a45cff4c2da90e6fbe8
